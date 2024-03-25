@@ -1,6 +1,6 @@
 //this will contain all of the libraries, type definitions, structure definitions, and the list of function prototypes
-#ifndef BPS0075FUNC_H_
-#define BPS0075FUNC_H_
+#ifndef FUNCTIONS_H_
+#define FUNCTIONS_H_
 
 #include<iostream>
 #include<string>
