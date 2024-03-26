@@ -15,7 +15,7 @@ enum actualObjects{BOX = 'B', AVATAR = 'A', WALL = 'X', HOME = 'H', SPACE = ' ',
 struct Background
 {
         actualObjects tile;
-        bool isHomeEmpty;
+        bool isHomeEmpty = false;
 	bool gameSaved;
 };
 
