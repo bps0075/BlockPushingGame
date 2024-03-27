@@ -2,11 +2,11 @@
 #ifndef FUNCTIONS_H_
 #define FUNCTIONS_H_
 
-#include<iostream>
-#include<string>
-#include<fstream>
-#include<stdio.h>
-#include<string.h>
+#include <iostream>
+#include <string>
+#include <fstream>
+#include <stdio.h>
+#include <string.h>
 
 using namespace std;
 
